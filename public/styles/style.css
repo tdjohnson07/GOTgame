@@ -1,0 +1,11 @@
+.houses img{
+  height: 300px;
+  width: 300px;
+}
+.houses li{
+  display: inline-block;
+  style: none;
+}
+.houses li h2{
+  text-align: center;
+}

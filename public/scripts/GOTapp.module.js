@@ -1,0 +1,1 @@
+angular.module('GOTapp', ['ngRoute']);
